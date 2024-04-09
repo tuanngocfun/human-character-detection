@@ -1,7 +1,7 @@
 # Lecture Video Repository
 
 ## Introduction
-This repository is dedicated to storing and accessing video recordings of lectures via Git Large File Storage (LFS) to ensure efficient handling of large media files.
+This specific branch is dedicated to storing and accessing video recordings of lectures via Git Large File Storage (LFS) to ensure efficient handling of large media files.
 
 ## Setup Instructions
 
